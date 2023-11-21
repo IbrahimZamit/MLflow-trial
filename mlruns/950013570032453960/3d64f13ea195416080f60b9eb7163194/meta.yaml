@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/950013570032453960/3d64f13ea195416080f60b9eb7163194/artifacts
+end_time: 1700580043299
+entry_point_name: ''
+experiment_id: '950013570032453960'
+lifecycle_stage: active
+run_id: 3d64f13ea195416080f60b9eb7163194
+run_name: monumental-vole-838
+run_uuid: 3d64f13ea195416080f60b9eb7163194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700580040923
+status: 3
+tags: []
+user_id: repl

@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/950013570032453960/6b40974d6fed4b9289c266649ba3349c/artifacts
+end_time: 1700580045871
+entry_point_name: ''
+experiment_id: '950013570032453960'
+lifecycle_stage: active
+run_id: 6b40974d6fed4b9289c266649ba3349c
+run_name: angry-shark-959
+run_uuid: 6b40974d6fed4b9289c266649ba3349c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700580043325
+status: 3
+tags: []
+user_id: repl

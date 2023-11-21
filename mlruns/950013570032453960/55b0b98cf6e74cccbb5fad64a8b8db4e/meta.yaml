@@ -1,0 +1,15 @@
+artifact_uri: file:///work/files/workspace/mlruns/950013570032453960/55b0b98cf6e74cccbb5fad64a8b8db4e/artifacts
+end_time: 1700580040903
+entry_point_name: ''
+experiment_id: '950013570032453960'
+lifecycle_stage: active
+run_id: 55b0b98cf6e74cccbb5fad64a8b8db4e
+run_name: ambitious-cod-306
+run_uuid: 55b0b98cf6e74cccbb5fad64a8b8db4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700580038497
+status: 3
+tags: []
+user_id: repl
